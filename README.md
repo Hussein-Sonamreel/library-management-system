@@ -89,6 +89,8 @@ App runs at → [http://localhost:5173/](http://localhost:5173/)
 ### Dashboard View  
 ![Dashboard Screenshot](./screenshots/dashboard.png)
 
+**Live Demo:** [Visit live app](https://library-management-system-phi-three.vercel.app/)
+
 ### Add Book Form  
 ![Add Book Screenshot](./screenshots/add-book.png)
 
