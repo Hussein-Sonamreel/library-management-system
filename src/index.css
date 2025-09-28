@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Setting the high-contrast dark mode foundation. */
+body {
+  /* Applying the dark background and light text globally */
+  @apply bg-gray-900 text-gray-100 min-h-screen font-sans;
+  /* Setting smooth scrolling for better UX */
+  scroll-behavior: smooth;
+}
+
+/* Base styles for a high-end application */
+input:focus,
+button:focus,
+select:focus {
+  @apply outline-none ring-2 ring-deep-mint transition duration-150;
+}

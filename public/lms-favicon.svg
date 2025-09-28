@@ -1,0 +1,26 @@
+<svg
+width="40"
+height="40"
+viewBox="0 0 40 40"
+fill="none"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" fill="transparent"/>
+
+<!-- Outer spiral/swirl representing knowledge - Deep Mint -->
+
+<path
+d="M35 5C35 15 25 25 15 25C5 25 5 35 15 35"
+stroke="#66CDAA"
+strokeWidth="4"
+strokeLinecap="round"
+/>
+
+<!-- Inner swirl/book pages - Spearmint (lighter) -->
+
+<path
+d="M30 10C30 16 22 22 15 22C8 22 8 30 15 30"
+stroke="#A1E3B3"
+strokeWidth="2"
+strokeLinecap="round"
+/>
+</svg>
